@@ -1,0 +1,5 @@
+<?php
+foreach ($students as $student) {
+    echo $student . "<br>";
+}
+?>
